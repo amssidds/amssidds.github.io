@@ -14,7 +14,7 @@ name                     : &name "Ameen Siddiqui"
 description              : &description "Cybersecurity Engineer"
 url                      : https://amssidds.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amssidds/amssidds"
+repository               : "amssidds.github.io/amssidds"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Cybersecurity Engineer"
   location         : "Abu Dhabi, UAE"
-  # employer         : "Red Brick University"
-  # uri              : # URL
+  employer         : "Red Brick University"
+  uri              : # URL
   email            : "ameenmurtazasiddiqui@gmail.com" 
 
   # Academic websites
