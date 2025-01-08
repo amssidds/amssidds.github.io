@@ -21,7 +21,7 @@ repository               : "amssidds.github.io/amssidds"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/laptop.png"
+  avatar           : "laptop.png"
   name             : "Ameen Siddiqui"
   pronouns         : # example: "she/her"  
   bio              : "Cybersecurity Engineer"
