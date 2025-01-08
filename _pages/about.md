@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+ 
 Highly motivated and results-oriented Cybersecurity Engineering student with a passion for technology and a proven track record of success in IT support, Cybersecurity Engineering, and Project Management. Eager to leverage strong technical skills and leadership experience to contribute to a dynamic and innovative team.
 
 ---
